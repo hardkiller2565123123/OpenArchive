@@ -1,16 +1,15 @@
-# OpenArchive
+# OpenArchive — Black Ops II
 
 <div align="center">
 
-### Preservation-focused restoration framework for abandoned, offline, and legacy multiplayer games.
+### Preservation and restoration research branch for Black Ops II.
 
 ---
 
-![Status](https://img.shields.io/badge/status-active%20development-orange)
-![Focus](https://img.shields.io/badge/focus-game%20preservation-blue)
+![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
 ![Architecture](https://img.shields.io/badge/architecture-x86-red)
-![Research](https://img.shields.io/badge/research-ongoing-green)
+![Focus](https://img.shields.io/badge/focus-preservation-blue)
 
 </div>
 
@@ -18,69 +17,53 @@
 
 # Overview
 
-OpenArchive is a long-term preservation and restoration project dedicated to keeping older games functional after official support, matchmaking services, authentication systems, or backend infrastructure have shut down.
+This branch is dedicated to preservation, restoration, compatibility research, and infrastructure experimentation related to Black Ops II.
 
-The project focuses on restoring functionality while preserving the original experience as closely as possible.
-
-OpenArchive supports:
-- Offline restoration
-- Multiplayer preservation
-- Legacy compatibility
-- Community research
-- Modding support
-- Infrastructure replacement
-- Archival and documentation work
+The purpose of this branch is to document and preserve legacy systems while researching methods to maintain functionality on modern hardware and operating systems.
 
 ---
 
-## Important
+# Important
 
-All games and restoration projects are listed in the repository branches.
+A legally owned copy of Black Ops II is required.
 
-Each project contains its own research, restoration progress, tooling, and compatibility work depending on the target game.
+This branch may contain ownership verification and Steam checks where required.
 
-Every project includes ownership verification and Steam checks where required.
-
-A legally owned copy of the specific game is required.
-
-OpenArchive does not support, distribute, or condone piracy in any form.
-
-No ownership is claimed over original proprietary assets, engines, or intellectual property belonging to their respective owners.
+OpenArchive does **not** support piracy, unauthorized distribution, or modified copies of proprietary game assets.
 
 This project exists strictly for:
 - Preservation
 - Research
+- Education
 - Compatibility restoration
-- Educational purposes
-- Archival purposes
-
-
- ---
-
-# Credits
-
-Special thanks to:
-- Preservation communities
-- Reverse engineering communities
-- Multiplayer restoration communities
-- Modding communities
-- Software archivists
-- Open-source contributors
-- Original Game Maker for Making these Great Games
-
+- Historical archival purposes
 
 ---
 
-# Status
+# Goals
 
-OpenArchive is currently under active research and development.
+- Preserve legacy functionality
+- Restore compatibility on modern systems
+- Research multiplayer infrastructure
+- Support offline and LAN functionality
+- Document legacy systems and behavior
+- Maintain original game behavior wherever possible
+- Research compatibility layers and restoration methods
 
-Large portions of the project are experimental and continuously evolving as older systems and infrastructure are restored and documented.
+---
+
+# Notes
+
+This branch is currently under active research and development.
+
+Content, tooling, and restoration progress may change frequently as additional systems are documented and restored.
 
 ---
 
 <div align="center">
 
 ## “If the servers disappear, the games should not disappear with them.”
+
+</div>
 
 </div>
