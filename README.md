@@ -66,6 +66,8 @@ Special thanks to:
 - Modding communities
 - Software archivists
 - Open-source contributors
+- Original Game Maker for Making these Great Games
+
 
 ---
 
