@@ -87,15 +87,8 @@ Thanks to:
 - Documentation contributors
 
 ---
-
 <div align="center">
 
-### OpenArchive Preservation Research
-
-“Preserving software history one system at a time.”
-
-</div>
-
-</div>
+## “If the servers disappear, the games should not disappear with them.”
 
 </div>
