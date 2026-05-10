@@ -33,51 +33,26 @@ OpenArchive supports:
 
 ---
 
-# Branches
-
 ## Important
 
-Game-specific restorations and research projects are separated into individual branches.
+All games and restoration projects are listed in the repository branches.
 
-The branch list contains:
-- Restoration builds
-- Experimental networking work
-- Compatibility rewrites
-- Offline infrastructure research
-- Legacy toolchain projects
-- Archived preservation work
+Each project contains its own research, restoration progress, tooling, and compatibility work depending on the target game.
 
-Each branch may contain different restoration progress, tooling, and research depending on the target project.
+Every project includes ownership verification and Steam checks where required.
 
----
+A legally owned copy of the specific game is required.
 
-# Goals
+OpenArchive does not support, distribute, or condone piracy in any form.
 
-- Restore abandoned multiplayer functionality
-- Preserve legacy game clients
-- Support offline and LAN play
-- Replace discontinued online infrastructure
-- Improve compatibility on modern operating systems
-- Preserve original behavior wherever possible
-- Document restoration processes for archival purposes
-- Provide modular systems for research and modding
+This project exists strictly for:
+- Preservation
+- Research
+- Compatibility restoration
+- Educational purposes
+- Archival purposes
 
----
-
-# Philosophy
-
-OpenArchive prioritizes preservation over modernization.
-
-Many legacy projects depend on:
-- Older compilers
-- Deprecated SDKs
-- Legacy networking behavior
-- Outdated dependencies
-- Original memory layouts
-
-The objective is to maintain compatibility and preserve functionality instead of heavily rewriting projects unless absolutely necessary.
-
----
+ ---
 
 # Purpose
 
