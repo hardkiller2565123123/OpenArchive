@@ -81,6 +81,6 @@ Large portions of the project are experimental and continuously evolving as olde
 
 <div align="center">
 
-## “If the servers disappear, the games should not disappear with them.”
+## “Archiving the past. Restoring the Future.”
 
 </div>
