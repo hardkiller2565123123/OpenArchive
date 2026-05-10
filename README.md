@@ -89,6 +89,6 @@ Thanks to:
 ---
 <div align="center">
 
-## “If the servers disappear, the games should not disappear with them.”
+## “Archiving the past. Restoring the experience.”
 
 </div>
