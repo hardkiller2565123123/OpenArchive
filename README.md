@@ -1,68 +1,100 @@
-# OpenArchive — Black Ops II
+# Black Ops II — OpenArchive Branch
 
 <div align="center">
 
-### Preservation and restoration research branch for Black Ops II.
+### Legacy infrastructure research and preservation branch.
 
----
-
-![Status](https://img.shields.io/badge/status-work%20in%20progress-orange)
-![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-![Architecture](https://img.shields.io/badge/architecture-x86-red)
-![Focus](https://img.shields.io/badge/focus-preservation-blue)
+<img src="https://img.shields.io/badge/branch-black%20ops%202-darkred">
+<img src="https://img.shields.io/badge/type-research-orange">
+<img src="https://img.shields.io/badge/state-experimental-yellow">
+<img src="https://img.shields.io/badge/platform-windows-lightgrey">
 
 </div>
 
 ---
 
-# Overview
+# About
 
-This branch is dedicated to preservation, restoration, compatibility research, and infrastructure experimentation related to Black Ops II.
+This branch contains ongoing preservation and restoration research related to Black Ops II and its surrounding infrastructure.
 
-The purpose of this branch is to document and preserve legacy systems while researching methods to maintain functionality on modern hardware and operating systems.
+The primary focus is studying and documenting older systems, compatibility behavior, networking functionality, and legacy environments to help preserve long-term accessibility.
 
----
-
-# Important
-
-A legally owned copy of Black Ops II is required.
-
-This branch may contain ownership verification and Steam checks where required.
-
-OpenArchive does **not** support piracy, unauthorized distribution, or modified copies of proprietary game assets.
-
-This project exists strictly for:
-- Preservation
-- Research
-- Education
-- Compatibility restoration
-- Historical archival purposes
+This branch may include:
+- Restoration research
+- Compatibility testing
+- Legacy environment recreation
+- Infrastructure analysis
+- Toolchain preservation
+- Networking experimentation
+- Documentation and archival work
 
 ---
 
-# Goals
+# Legal
 
-- Preserve legacy functionality
-- Restore compatibility on modern systems
-- Research multiplayer infrastructure
-- Support offline and LAN functionality
-- Document legacy systems and behavior
-- Maintain original game behavior wherever possible
-- Research compatibility layers and restoration methods
+A legitimate copy of Black Ops II is required.
+
+Ownership verification and platform checks may exist within projects or research builds where necessary.
+
+OpenArchive does not distribute proprietary game files and does not support piracy or unauthorized redistribution.
 
 ---
 
-# Notes
+# Branch Information
 
-This branch is currently under active research and development.
+This branch serves as a dedicated workspace separate from the main OpenArchive repository.
 
-Content, tooling, and restoration progress may change frequently as additional systems are documented and restored.
+Development here may be:
+- Experimental
+- Unstable
+- Incomplete
+- Frequently rewritten
+- Used for testing and documentation purposes
+
+Not all research or tooling present here is guaranteed to be functional.
+
+---
+
+# Preservation Focus
+
+The goal of this branch is not modernization.
+
+Whenever possible, research is centered around preserving:
+- Original behavior
+- Legacy compatibility
+- Older development environments
+- Historical functionality
+- Existing networking structures
+
+---
+
+# Status
+
+```text
+Research Active...
+```
+
+---
+
+# Contributors
+
+Thanks to:
+- Preservation researchers
+- Reverse engineering communities
+- Legacy multiplayer communities
+- Software archivists
+- Community developers
+- Documentation contributors
 
 ---
 
 <div align="center">
 
-## “If the servers disappear, the games should not disappear with them.”
+### OpenArchive Preservation Research
+
+“Preserving software history one system at a time.”
+
+</div>
 
 </div>
 
