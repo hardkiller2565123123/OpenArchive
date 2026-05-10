@@ -89,6 +89,6 @@ Thanks to:
 ---
 <div align="center">
 
-## “Archiving the past. Restoring the experience.”
+## “Archiving the past. Restoring the Future.”
 
 </div>
