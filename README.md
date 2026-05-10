@@ -45,6 +45,8 @@ A legally owned copy of the specific game is required.
 
 OpenArchive does not support, distribute, or condone piracy in any form.
 
+No ownership is claimed over original proprietary assets, engines, or intellectual property belonging to their respective owners.
+
 This project exists strictly for:
 - Preservation
 - Research
@@ -52,20 +54,8 @@ This project exists strictly for:
 - Educational purposes
 - Archival purposes
 
+
  ---
-
-# Purpose
-
-This repository exists for:
-- Preservation
-- Research
-- Education
-- Compatibility restoration
-- Historical archival purposes
-
-No ownership is claimed over original proprietary assets, engines, or intellectual property belonging to their respective owners.
-
----
 
 # Credits
 
