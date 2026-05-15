@@ -1,86 +1,92 @@
-# OpenArchive
+# OpenArchive Launcher
 
 <div align="center">
 
-### Preservation-focused restoration framework for abandoned, offline, and legacy multiplayer games.
+### A preservation-focused launcher for open-source Call of Duty client projects.
 
 ---
 
 ![Status](https://img.shields.io/badge/status-active%20development-orange)
 ![Focus](https://img.shields.io/badge/focus-game%20preservation-blue)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
-![Architecture](https://img.shields.io/badge/architecture-x86-red)
+![Games](https://img.shields.io/badge/games-WaW%20%7C%20BO1%20%7C%20BO2%20%7C%20BO3%20%7C%20BO4-red)
 ![Research](https://img.shields.io/badge/research-ongoing-green)
 
 </div>
 
 ---
 
-# Overview
+## Overview
 
-OpenArchive is a long-term preservation and restoration project dedicated to keeping older games functional after official support, matchmaking services, authentication systems, or backend infrastructure have shut down.
+OpenArchive Launcher is a custom Windows launcher designed to organize, download, build, and manage open-source Call of Duty client projects.
 
-The project focuses on restoring functionality while preserving the original experience as closely as possible.
+The launcher is focused on preservation, restoration, and research for legacy multiplayer clients.
 
-OpenArchive supports:
-- Offline restoration
-- Multiplayer preservation
-- Legacy compatibility
-- Community research
-- Modding support
-- Infrastructure replacement
-- Archival and documentation work
+Supported game targets include:
+
+- Call of Duty: World at War
+- Call of Duty: Black Ops
+- Call of Duty: Black Ops II
+- Call of Duty: Black Ops III
+- Call of Duty: Black Ops 4
+
+---
+
+## Launcher Goals
+
+OpenArchive Launcher is being built to help manage client projects from one place.
+
+Planned launcher features include:
+
+- Pulling client source code from GitHub
+- Downloading required build tools and dependencies
+- Detecting installed game folders
+- Managing separate clients per game
+- Building supported clients directly from the launcher
+- Launching selected clients
+- Showing build status and errors
+- Keeping restoration tools organized
+- Supporting preservation-focused documentation
 
 ---
 
 ## Important
 
-All games and restoration projects are listed in the repository branches.
+This launcher is only intended for open-source clients, research projects, and preservation work.
 
-Each project contains its own research, restoration progress, tooling, and compatibility work depending on the target game.
+A legally owned copy of each supported game is required.
 
-Every project includes ownership verification and Steam checks where required.
+OpenArchive does not support, distribute, or condone piracy.
 
-A legally owned copy of the specific game is required.
+No proprietary game files, assets, or copyrighted content are included.
 
-OpenArchive does not support, distribute, or condone piracy in any form.
-
-No ownership is claimed over original proprietary assets, engines, or intellectual property belonging to their respective owners.
-
-This project exists strictly for:
-- Preservation
-- Research
-- Compatibility restoration
-- Educational purposes
-- Archival purposes
-
-
- ---
-
-# Credits
-
-Special thanks to:
-- Preservation communities
-- Reverse engineering communities
-- Multiplayer restoration communities
-- Modding communities
-- Software archivists
-- Open-source contributors
-- Original Game Maker for Making these Great Games
-
+All games and client projects are handled through separate branches or project entries.
 
 ---
 
-# Status
+## Purpose
 
-OpenArchive is currently under active research and development.
+This project exists strictly for:
 
-Large portions of the project are experimental and continuously evolving as older systems and infrastructure are restored and documented.
+- Game preservation
+- Multiplayer restoration research
+- Legacy client compatibility
+- Educational development
+- Archival documentation
+- Open-source tooling
+
+---
+
+## Status
+
+OpenArchive Launcher is currently in early active development.
+
+The first goal is to build a clean launcher framework that can manage World at War, Black Ops, Black Ops II, Black Ops III, and Black Ops 4 client projects.
 
 ---
 
 <div align="center">
 
-## “Archiving the past. Restoring the Future.”
+## “Preserving the clients. Restoring the connection.”
 
 </div>
